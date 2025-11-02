@@ -2,8 +2,8 @@
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <a href="https://github.com/Hassamkhan888/hr-analytics-dashboard/blob/main/HR_Analytics_Dashboard.png" target="_blank">
-    <img src="https://github.com/Hassamkhan888/hr-analytics-dashboard/blob/main/HR_Analytics_Dashboard.png" alt="HR Analytics Dashboard" width="800"/>
+  <a href="https://github.com/Hassamkhan888/hr-analytics-dashboard/blob/abdeeea5cc12b068ed0918cf7bc21f144e0b59b0/HR_Analytics_Dashboard.PNG" target="_blank">
+    <img src="https://github.com/Hassamkhan888/hr-analytics-dashboard/blob/abdeeea5cc12b068ed0918cf7bc21f144e0b59b0/HR_Analytics_Dashboard.PNG" alt="HR Analytics Dashboard" width="800"/>
   </a>
 </p>
 
